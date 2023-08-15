@@ -1,9 +1,10 @@
+import Button from "./Button";
+import styles from "./App.module.css";
+import { useState, useEffect } from "react";
+
 function App() {
-  return (
-    <div>
-      <h1>Hello!</h1>
-    </div>
-  );
+  return <div></div>;
+  
 }
 
 export default App;
