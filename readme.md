@@ -1,7 +1,9 @@
 # MovieWebService <br>영화 웹 서비스 리액트로 만들기
 
-<h1>23.08.17</h1>
-<h3>React 바뀐 router설정</h3>
+<h1>23.08.17~18 </h1>
+
+<h3>React 바뀐 router설정, 이해될때까지 영상 무한반복</h3>
+
 <pre>
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./routes/Home";
@@ -21,6 +23,11 @@ return (
 export default App;
 
 </pre>
+<h3>react-router-dom 설치</h3>
+<pre>
+npm install react-router-dom
+</pre>
+
 <h3>리액트 라우터 설치와 셋팅<h3>
 <pre>
 npx create-react-app myapp
