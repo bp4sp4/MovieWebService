@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MovieWebService/static/css/main.6683479f.css",
-    "main.js": "/MovieWebService/static/js/main.d2ca48a7.js",
-    "index.html": "/MovieWebService/index.html",
-    "main.6683479f.css.map": "/MovieWebService/static/css/main.6683479f.css.map",
-    "main.d2ca48a7.js.map": "/MovieWebService/static/js/main.d2ca48a7.js.map"
+    "main.css": "https://bp4sp4.github.io/MovieWebService/static/css/main.6683479f.css",
+    "main.js": "https://bp4sp4.github.io/MovieWebService/static/js/main.6b5b62f2.js",
+    "index.html": "https://bp4sp4.github.io/MovieWebService/index.html",
+    "main.6683479f.css.map": "https://bp4sp4.github.io/MovieWebService/static/css/main.6683479f.css.map",
+    "main.6b5b62f2.js.map": "https://bp4sp4.github.io/MovieWebService/static/js/main.6b5b62f2.js.map"
   },
   "entrypoints": [
     "static/css/main.6683479f.css",
-    "static/js/main.d2ca48a7.js"
+    "static/js/main.6b5b62f2.js"
   ]
 }
